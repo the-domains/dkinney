@@ -1,0 +1,14 @@
+layout_spectrum: 0.24513481580652297
+typography_spectrum: 0.9708918547257781
+color:
+  brandStrength: 0.1461721754167229
+  lightness: 0.6029653574805707
+  saturation: 0.24764933856204152
+  rhythmicContrast: 0.022904882673174143
+  brandColors:
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+name: dkinney
